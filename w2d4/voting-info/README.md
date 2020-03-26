@@ -16,7 +16,7 @@ _This is a little dynamic page that gives users specific links and responses bas
 ## View Online
 
 * View at https://macj314.github.io/macj314/voting-info
-* 
+* Or here: https://Code-Cacophony.github.io/Code-Cacophony/voting
 
 ### License
 

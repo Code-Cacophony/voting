@@ -6,8 +6,10 @@ $(document).ready(function(){
   
     if (number1 >= 18) {
         $("#adult").show();
+        $("#minor").hide();
     } else {
         $("#minor").show();
+        $("#adult").hide();
     }
   });
 });
